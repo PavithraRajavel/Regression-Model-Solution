@@ -1,0 +1,39 @@
+2024-08-01 17:35:26,820:INFO:Data loaded
+2024-08-01 17:35:26,822:INFO:Feature Engineering Completed
+2024-08-01 17:35:26,824:INFO:Dataset Splitted into test and train set
+2024-08-01 17:35:26,847:INFO:Linear Regression Train MAE: 88675.43111087685
+2024-08-01 17:35:26,847:INFO:Linear Regression Test MAE: 89564.6678188999
+2024-08-01 17:35:26,847:INFO:Training Completed for Linear Regression
+2024-08-01 17:35:26,847:INFO:"Decision Tree Train MAE: 72617.68748217053
+2024-08-01 17:35:26,847:INFO:"Decision Tree Test MAE: 72723.28510494798
+2024-08-01 17:35:26,847:INFO:Training Completed for Decision Tree model
+2024-08-01 17:35:37,921:INFO:"Random Forest Train MAE: 17238.462785714284
+2024-08-01 17:35:37,937:INFO:"Random Forest Test MAE: 48738.9500464191
+2024-08-01 17:35:37,937:INFO:Training Completed for Random Forest model
+2024-08-01 17:35:37,937:INFO:Saving Random Forest model
+2024-08-01 17:35:37,967:INFO:Loading Random Forest model
+2024-08-01 17:35:37,999:INFO:Making predictions
+2024-08-01 17:35:38,004:INFO:Prediction: [257022.955]
+2024-08-04 10:28:07,258:INFO:Data loaded
+2024-08-04 10:28:07,265:INFO:Feature Engineering Completed
+2024-08-04 10:28:07,269:INFO:Dataset Splitted into test and train set
+2024-08-04 10:28:07,351:INFO:Linear Regression Train MAE: 88675.43111087715
+2024-08-04 10:28:07,353:INFO:Linear Regression Test MAE: 89564.66781890072
+2024-08-04 10:28:07,353:INFO:Training Completed for Linear Regression
+2024-08-04 10:28:07,361:ERROR:Error loading data: name 'evaluate_model' is not defined
+2024-08-04 10:29:32,906:INFO:Data loaded
+2024-08-04 10:29:32,908:INFO:Feature Engineering Completed
+2024-08-04 10:29:32,909:INFO:Dataset Splitted into test and train set
+2024-08-04 10:29:32,929:INFO:Linear Regression Train MAE: 88675.43111087715
+2024-08-04 10:29:32,931:INFO:Linear Regression Test MAE: 89564.66781890072
+2024-08-04 10:29:32,931:INFO:Training Completed for Linear Regression
+2024-08-04 10:29:32,949:INFO:"Decision Tree Train MAE: 74116.66945741487
+2024-08-04 10:29:32,951:INFO:"Decision Tree Test MAE: 78598.85867962419
+2024-08-04 10:29:32,951:INFO:Training Completed for Decision Tree model
+2024-08-04 10:29:51,969:INFO:"Random Forest Train MAE: 17048.944393687707
+2024-08-04 10:29:52,036:INFO:"Random Forest Test MAE: 48221.41673076923
+2024-08-04 10:29:52,036:INFO:Training Completed for Random Forest model
+2024-08-04 10:29:52,036:INFO:Saving Random Forest model
+2024-08-04 10:29:52,105:INFO:Loading Random Forest model
+2024-08-04 10:29:52,190:INFO:Making predictions
+2024-08-04 10:29:52,213:INFO:Prediction: [256494.375]
